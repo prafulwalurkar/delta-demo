@@ -3,5 +3,5 @@ This is demo for Git &amp; Github class.
 
 # Teacher
 praful walurkar
-#student
+# student
 delta student
